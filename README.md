@@ -1,8 +1,8 @@
 
-# 🌸 Hi there, I'm Xb2555
+# 🌸 Hi there, I'm worm
 
 <p align="center">
-  <img src="你的图片链接" width="100%" />
+  <img src="" width="100%" />
 </p>
 
 <h1 align="center">✨ Welcome to my world ✨</h1>
@@ -18,7 +18,7 @@
 ## 🧩 About Me
 
 * 🌱 Currently learning: **Java / Spring Boot / Vue**
-* 💻 Working on: **Community Weblog**
+* 💻 Studying on: GDUT
 * 🎯 Goal: Become a full-stack developer
 * 🎮 Fun fact: I like anime & clean UI
 
@@ -30,15 +30,8 @@
   <img src="https://skillicons.dev/icons?i=java,vue,js,ts,mysql,git,linux" />
 </p>
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -48,19 +41,6 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
----
-
-## 📌 My Project
-
-### 🌐 Community Weblog
-
-<p align="center">
-  <img src="你的项目截图" width="80%" />
-</p>
-
-* 🚀 Vue + Spring Boot
-* 🔐 Login / Register / JWT
-* 📝 Post & Comment System
 
 ---
 
