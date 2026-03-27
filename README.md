@@ -2,7 +2,7 @@
 # 🌸 Hi there, I'm worm
 
 <p align="center">
-  <img src="https://github.com/worm-13/worm-13/blob/main/6e0f969a546e781ba4a3446562857847648248469%20(1).jpg" width="100%" />
+  <img src="https://github.com/worm-13/worm-13/blob/main/6e0f969a546e781ba4a3446562857847648248469%20(1).jpg" width="75%" />
 </p>
 
 <h1 align="center">✨ Welcome to my world ✨</h1>
