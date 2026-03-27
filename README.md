@@ -17,7 +17,7 @@
 
 ## 🧩 About Me
 
-* 🌱 Currently learning: **Java / Spring Boot / Vue**
+* 🌱 Currently learning: **Java/ Go / Spring Boot / Vue**
 * 💻 Studying on: GDUT
 * 🎯 Goal: Become a full-stack developer
 * 🎮 Fun fact: I like anime & clean UI
@@ -27,7 +27,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,vue,js,ts,mysql,git,linux" />
+  <img src="https://skillicons.dev/icons?i=java,vue,js,ts,mysql,git,linux,go,ps,redis,rocket,spring" />
 </p>
 
 
@@ -47,5 +47,5 @@
 ## 🌸 Thanks for visiting
 
 <p align="center">
-  ✨ Keep coding, keep growing ✨
+  ✨ <br>我不是最好的但我会努力的<br> ✨
 </p>
