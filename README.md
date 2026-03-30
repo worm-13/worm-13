@@ -6,6 +6,7 @@
 </p>
 
 <h1 align="center">✨ Welcome to my world ✨</h1>
+<h1 align="center">✨ 我不是最好的，但我会努力的 ✨</h1>
 
 <p align="center">
   🌙 Java Developer in progress <br>
