@@ -48,5 +48,5 @@
 ## 🌸 Thanks for visiting
 
 <p align="center">
-  ✨ <br>我不是最好的但我会努力的<br> ✨
+  ✨ <br>love mhy<br> ✨
 </p>
